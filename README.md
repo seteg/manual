@@ -1,10 +1,8 @@
 "# Manual" 
 Ejecutar para subir a la nube
 
-
 cmd
 cd "C:\Users\Anderson R U\OneDrive\Documentos\manual"
-
 
 git status
 git add .
